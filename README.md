@@ -1,0 +1,2 @@
+# 8ef60943-foodtech-restaurant-tech-pro
+foodtech professionals waste hours on spending hours building a system before you can actually use it. This fixes that.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Foodtech &amp; Restaurant Tech Project Management An
